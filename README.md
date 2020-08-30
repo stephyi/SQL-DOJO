@@ -5,4 +5,4 @@ Shoprity is a retail company that has operations in several African countries. T
 
 We load our first dataset from a csv file and afterwards, we then store the dataset in our in memory sqlite database.We then use sql to answer some major business questions
 
-All code can be found in the **
+All code can be found in the **SQL_Data_Science_Dojo_Deliverable.ipynb**
